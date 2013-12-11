@@ -15,6 +15,11 @@ Enter Acts as Taggable On. Rather than tying functionality to a specific keyword
 tag "contexts" that can be used locally or in combination in the same way steroids
 was used.
 
+## Pull requests applied on Kenzai
+
+ - Compatibility with
+   UUID: [Quote any references to id in raw sql](https://github.com/mbleigh/acts-as-taggable-on/pull/431)
+
 ## Compatibility
 
 Versions 2.x are compatible with Ruby 1.8.7+ and Rails 3.
